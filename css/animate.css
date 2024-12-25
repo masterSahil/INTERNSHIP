@@ -1,0 +1,80 @@
+@keyframes announce {
+    100%{
+        transform: translateX(-1650px);
+    }
+}
+@keyframes before-animation {
+    100%{
+        transform: translateX(-15300px);
+    }
+}
+@keyframes before-animation2 {
+    100%{
+        transform: translateX(-5450px);
+    }
+}
+@keyframes before-animation3 {
+    100%{
+        transform: translateX(-1550px);
+    }
+}
+@keyframes before-animation4 {
+    100%{
+        transform: translateX(0);
+    }
+}
+@keyframes before-animation5 {
+    100%{
+        transform: translateX(-4100px);
+    }
+}
+@keyframes before-animation6 {
+    100%{
+        transform: translateX(-6900px);
+    }
+}
+@keyframes before-animation7 {
+    100%{
+        transform: translateX(-5555px);
+    }
+}
+@keyframes peoples {
+    100%{
+        transform: translateX(-7470px);
+    }
+}
+@keyframes before-animation8{
+    100%{
+        transform: translateX(-9300px);
+    }
+}
+@keyframes before-animation9{
+    100%{
+        left: -575vw;
+    }
+}
+@keyframes before-animation10{
+    100%{
+        left: -472vw;
+    }
+}
+@keyframes before-animation11{
+    100%{
+        left: -502vw;
+    }
+}
+@keyframes longImg {
+    100%{
+        transform: translateX(-200vw);
+    }
+}
+@keyframes odd {
+    100%{
+        transform: translateY(-100vw);
+    }
+}
+@keyframes even {
+    100%{
+        transform: translateY(0);
+    }
+}

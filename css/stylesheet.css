@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Behind The Nineties';
+    src: url('../fonts/../fonts/Behind-The-Nineties-It.woff2') format('woff2'),
+        url('../fonts/Behind-The-Nineties-It.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Behind The Nineties';
+    src: url('../fonts/Behind-The-Nineties-Blk-It.woff2') format('woff2'),
+        url('../fonts/Behind-The-Nineties-Blk-It.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Behind The Nineties';
+    src: url('../fonts/Behind-The-Nineties-Md-It.woff2') format('woff2'),
+        url('../fonts/Behind-The-Nineties-Md-It.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Behind The Nineties';
+    src: url('../fonts/Behind-The-Nineties-Bd-It.woff2') format('woff2'),
+        url('../fonts/Behind-The-Nineties-Bd-It.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Behind The Nineties';
+    src: url('../fonts/Behind-The-Nineties-Xbd-It.woff2') format('woff2'),
+        url('../fonts/Behind-The-Nineties-Xbd-It.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Behind The Nineties';
+    src: url('../fonts/Behind-The-Nineties-Smbd-It.woff2') format('woff2'),
+        url('../fonts/Behind-The-Nineties-Smbd-It.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Behind The Nineties Variable It';
+    src: url('../fonts/Behind-The-Nineties-Variable-It.woff2') format('woff2'),
+        url('../fonts/Behind-The-Nineties-Variable-It.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('../fonts/Inter-Regular.woff2') format('woff2'),
+        url('../fonts/Inter-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('../fonts/Inter-Italic.woff2') format('woff2'),
+        url('../fonts/Inter-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
