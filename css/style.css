@@ -13,6 +13,7 @@ body{
 }
 button{
     cursor: pointer;
+    transition: all .5s ease;
 }
 a{
     text-decoration: none;
